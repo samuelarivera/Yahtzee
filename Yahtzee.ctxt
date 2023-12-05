@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Yahtzee
+comment1.params=
+comment1.target=void\ fullRoll()
+comment2.params=
+comment2.target=Yahtzee()
+comment3.params=diceNumber
+comment3.target=void\ oneRoll(int)
+comment4.params=
+comment4.target=int\ getValue()
+numComments=5
