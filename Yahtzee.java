@@ -28,7 +28,9 @@ public class Yahtzee
          this.fullRoll();
     }
     public void oneRoll(int diceNumber){
-       dieset[diceNumber].roll();
+        if(diceNumber <= 6){
+             dieset[diceNumber -1].roll();
+        }
     }
 
     public int getValue(){
